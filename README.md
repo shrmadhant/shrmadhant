@@ -1,12 +1,8 @@
 # Vinicius Mercer
 
-Desenvolvedor autodidata, entusiasta de sistemas operacionais minimalistas, segurança da informação e setups otimizados para produtividade e desenvolvimento. Trabalho com foco em ambientes Linux (especialmente Arch Linux), virtualização, hardening e automação de rotinas via scripts e ferramentas CLI.
-
-Este repositório central organiza e referencia os principais guias e projetos públicos que venho desenvolvendo — voltados tanto para usuários iniciantes quanto para devs que buscam controle total do sistema operacional que usam no dia a dia.
+Ambientes Linux (especialmente Arch Linux), virtualização, hardening e automação de rotinas via scripts e ferramentas CLI.
 
 ---
-
-## Projetos em Destaque
 
 - [Arch-Linux-Installation-Guide](https://github.com/shrmadhant/Arch-Linux-Installation-Guide)  
   Guia objetivo e detalhado de instalação do Arch com GRUB, UEFI e particionamento manual.
@@ -26,5 +22,5 @@ Este repositório central organiza e referencia os principais guias e projetos p
 
 - Guia completo de **browser hardening** para navegação segura e anti-fingerprint.
 - Setup automatizado de ambiente Linux para devs (scripts e dotfiles).
-- Curso para a Udemy sobre **instalação, otimização e segurança no Arch Linux**.
+- Curso completo sobre **instalação, otimização e segurança no Arch Linux**.
 - Tutoriais sobre **scripts Bash**, GPG, Git seguro e práticas de backup criptografado.
