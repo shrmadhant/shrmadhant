@@ -1,6 +1,14 @@
 # Vinicius Mercer
 
-Ambientes Linux (especialmente Arch Linux), virtualização, hardening e automação de rotinas via scripts e ferramentas CLI.
+High-Performance Developer | System Architect | Trader & Comp Sci Student
+
+Focado na construção de sistemas resilientes, automação de alta fidelidade e segurança ofensiva/defensiva. Minha filosofia de desenvolvimento é pautada pelo rigor matemático e pela eficiência operacional: se algo pode ser automatizado ou endurecido, será.
+
+Core Stack: Shell Scripting (Bash/Zsh), C/C++, MQL5/Pine Script (Trading Logic), e Python.
+
+Infrastructure: Arch Linux Power User, KVM/QEMU Virtualization, Linux Hardening e Automação via CLI.
+
+Focus: Desenvolvimento de indicadores quantitativos, bots de execução e ferramentas de produtividade em ambientes Unix-like.
 
 ---
 
