@@ -164,6 +164,27 @@ Focado na construção de sistemas resilientes, automação de alta fidelidade e
 
 ---
 
+## Stats
+
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=shrmadhant&showicons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrmadhant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+
+<br/>
+
+---
+
 ## Em Desenvolvimento
 
 - Guia completo de **browser hardening** para navegação segura e anti-fingerprint.
