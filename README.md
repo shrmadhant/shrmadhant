@@ -124,11 +124,63 @@ Focus: Desenvolvimento de indicadores quantitativos, bots de execução e ferram
   style="padding-right: 10px;"
   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg"
 />
+<img
+  align="left"
+  alt="NOTION"
+  title="NOTION"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg"
+/>
+<img
+  align="left"
+  alt="OBSIDIAN"
+  title="OBSIDIAN"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg"
+/>
+<img
+  align="left"
+  alt="PYTHON"
+  title="PYTHON"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"
+/>
+<img
+  align="left"
+  alt="R"
+  title="R"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg"
+/>
+<img
+  align="left"
+  alt="TS"
+  title="TS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"
+/>
+<img
+  align="left"
+  alt="VSC"
+  title="VSC"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCodium-Dark.svg"
+/>
+<img
+  align="left"
+  alt="WORDPRESS"
+  title="WORDPRESS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"
+/>
 
-
-
-
-<br/>
 <br/>
 
 ---
