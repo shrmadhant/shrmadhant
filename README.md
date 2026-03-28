@@ -30,12 +30,106 @@ Focus: Desenvolvimento de indicadores quantitativos, bots de execução e ferram
 
 <img
   align="left"
+  alt="LINUX"
+  title="LINUX"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"
+/>
+<img
+  align="left"
   alt="ARCH"
   title="ARCH"
   width="30px"
   style="padding-right: 10px;"
   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg"
 />
+<img
+  align="left"
+  alt="C"
+  title="C"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"
+/>
+<img
+  align="left"
+  alt="CPP"
+  title="CPP"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"
+/>
+<img
+  align="left"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
+/>
+<img
+  align="left"
+  alt="DISCORD"
+  title="DISCORD"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"
+/>
+<img
+  align="left"
+  alt="DISCORD-BOTS"
+  title="DISCORD-BOTS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg"
+/>
+<img
+  align="left"
+  alt="FORTRAN"
+  title="FORTRAN"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Fortran.svg"
+/>
+<img
+  align="left"
+  alt="GODOT"
+  title="GODOT"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg"
+/>
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
+/>
+<img
+  align="left"
+  alt="JS"
+  title="JS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
+/>
+<img
+  align="left"
+  alt="KOTLIN"
+  title="KOTLIN"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg"
+/>
+
+
+
+
+<br/>
+<br/>
 
 ---
 
