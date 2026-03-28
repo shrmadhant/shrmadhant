@@ -80,14 +80,6 @@ Focado na construção de sistemas resilientes, automação de alta fidelidade e
 />
 <img
   align="left"
-  alt="DISCORD-BOTS"
-  title="DISCORD-BOTS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg"
-/>
-<img
-  align="left"
   alt="FORTRAN"
   title="FORTRAN"
   width="30px"
@@ -165,22 +157,6 @@ Focado na construção de sistemas resilientes, automação de alta fidelidade e
   width="30px"
   style="padding-right: 10px;"
   src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"
-/>
-<img
-  align="left"
-  alt="VSC"
-  title="VSC"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCodium-Dark.svg"
-/>
-<img
-  align="left"
-  alt="WORDPRESS"
-  title="WORDPRESS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"
 />
 
 <br/>
