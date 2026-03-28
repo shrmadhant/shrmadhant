@@ -14,6 +14,8 @@ Focus: Desenvolvimento de indicadores quantitativos, bots de execução e ferram
 
 ---
 
+## Em Destaque
+
 - [Arch-Linux-Installation-Guide](https://github.com/shrmadhant/Arch-Linux-Installation-Guide)  
   Guia objetivo e detalhado de instalação do Arch com GRUB, UEFI e particionamento manual.
 
@@ -30,7 +32,7 @@ Focus: Desenvolvimento de indicadores quantitativos, bots de execução e ferram
 
 ---
 
-### Technologies
+## Tecnologias e Linguagens
 
 <img
   align="left"
@@ -185,6 +187,7 @@ Focus: Desenvolvimento de indicadores quantitativos, bots de execução e ferram
   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"
 />
 
+<br/>
 <br/>
 
 ---
