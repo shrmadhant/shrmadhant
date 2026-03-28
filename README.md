@@ -1,8 +1,8 @@
 # Vinicius Mercer
 
-High-Performance Developer | System Architect | Trader & Comp Sci Student
+**`High-Performance Developer | System Architect | Trader & Comp Sci Student`**
 
-Focado na construção de sistemas resilientes, automação de alta fidelidade e segurança ofensiva/defensiva. Minha filosofia de desenvolvimento é pautada pelo rigor matemático e pela eficiência operacional: se algo pode ser automatizado ou endurecido, será.
+Focado na construção de sistemas resilientes, automação de alta fidelidade e segurança ofensiva/defensiva. Minha filosofia de desenvolvimento é pautada pelo rigor matemático e pela eficiência operacional: se algo pode ser automatizado ou hardenizado, será.
 
 Core Stack: Shell Scripting (Bash/Zsh), C/C++, MQL5/Pine Script (Trading Logic), e Python.
 
@@ -23,6 +23,19 @@ Focus: Desenvolvimento de indicadores quantitativos, bots de execução e ferram
 
 - [Linux-tar.gz-Packages-Installation-Guide](https://github.com/shrmadhant/Linux-tar.gz-Packages-Installation-Guide)  
   Como lidar com pacotes `.tar.gz`: compilação, dependências, instalação limpa.
+
+---
+
+### Technologies
+
+<img
+  align="left"
+  alt="ARCH"
+  title="ARCH"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg"
+/>
 
 ---
 
