@@ -11,7 +11,6 @@ Infrastructure: Arch Linux Power User, KVM/QEMU Virtualization, Linux Hardening 
 Focus: Desenvolvimento de indicadores quantitativos, bots de execução e ferramentas de produtividade em ambientes Unix-like.
 
 <br/>
-<br/>
 
 ---
 
@@ -27,7 +26,6 @@ Focus: Desenvolvimento de indicadores quantitativos, bots de execução e ferram
 - [Linux-tar.gz-Packages-Installation-Guide](https://github.com/shrmadhant/Linux-tar.gz-Packages-Installation-Guide)  
   Como lidar com pacotes `.tar.gz`: compilação, dependências, instalação limpa.
 
-<br/>
 <br/>
 
 ---
@@ -188,7 +186,7 @@ Focus: Desenvolvimento de indicadores quantitativos, bots de execução e ferram
 />
 
 <br/>
-<br/>
+
 ---
 
 ## Em Desenvolvimento
