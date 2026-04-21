@@ -172,6 +172,7 @@ Focado na construção de sistemas resilientes, automação de alta fidelidade e
 - Tutoriais sobre **scripts Bash**, GPG, Git seguro e práticas de backup criptografado.
 
 <br/>
+
 ---
 
 ## Stats
