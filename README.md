@@ -164,6 +164,16 @@ Focado na construção de sistemas resilientes, automação de alta fidelidade e
 
 ---
 
+## Em Desenvolvimento
+
+- Guia completo de **browser hardening** para navegação segura e anti-fingerprint.
+- Setup automatizado de ambiente Linux para devs (scripts e dotfiles).
+- Curso completo sobre **instalação, otimização e segurança no Arch Linux**.
+- Tutoriais sobre **scripts Bash**, GPG, Git seguro e práticas de backup criptografado.
+
+<br/>
+---
+
 ## Stats
 
 <img
@@ -181,13 +191,4 @@ Focado na construção de sistemas resilientes, automação de alta fidelidade e
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrmadhant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
-<br/>
 
----
-
-## Em Desenvolvimento
-
-- Guia completo de **browser hardening** para navegação segura e anti-fingerprint.
-- Setup automatizado de ambiente Linux para devs (scripts e dotfiles).
-- Curso completo sobre **instalação, otimização e segurança no Arch Linux**.
-- Tutoriais sobre **scripts Bash**, GPG, Git seguro e práticas de backup criptografado.
