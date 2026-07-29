@@ -1,195 +1,57 @@
-# Vinicius Mercer
+# Mercer | Arquitetura de Sistemas & Engenharia de Software
 
-### **`High-Performance Developer | System Architect | Trader & Comp Sci Student`**
-
-Focado na construção de sistemas resilientes, automação de alta fidelidade e segurança ofensiva/defensiva. Minha filosofia de desenvolvimento é pautada pelo rigor matemático e pela eficiência operacional: se algo pode ser automatizado ou hardenizado, será.
-
-**Core Stack**: Shell Scripting (Bash/Zsh), C/C++, MQL5/Pine Script (Trading Logic), e Python.
-
-**Infrastructure**: Arch Linux Power User, KVM/QEMU Virtualization, Linux Hardening e Automação via CLI.
-
-**Focus**: Desenvolvimento de indicadores quantitativos, bots de execução e ferramentas de produtividade em ambientes Unix-like.
+Desenvolvedor orientado a performance, sistemas distribuídos e engenharia quantitativa. Não me dedico a colecionar linguagens ou acumular utilitários superficiais; meu foco é a construção de arquiteturas enxutas, determinísticas e resilientes, cobrindo da infraestrutura de baixo nível à camada de aplicação.
 
 ---
 
-## Em Destaque
+## ─── Pilares de Engenharia ───
 
-- [Arch-Linux-Installation-Guide](https://github.com/shrmadhant/Arch-Linux-Installation-Guide)  
-  Guia objetivo e detalhado de instalação do Arch com GRUB, UEFI e particionamento manual.
+### 1. Engenharia Quantitativa & Algoritmos de Trading
+* **Sistemas de Execução:** Desenvolvimento de indicadores e robôs de negociação de alta precisão em **MQL5** e **Pine Script** (Metatrader 5 / TradingView).
+* **Gestão de Risco & Volatilidade:** Implementação de algoritmos baseados em divergência de delta, estruturas de volatilidade e execução controlada.
+* **Automação Financeira:** Integração de Webhooks e pontes de sinal para roteamento de ordens e alertas operacionais em tempo real.
 
-- [Arch-Linux-New-Users-Guide](https://github.com/shrmadhant/Arch-Linux-New-Users-Guide)  
-  Pós-instalação: ambiente gráfico, pacotes essenciais, terminal otimizado, produtividade.
+### 2. Infraestrutura, Cibersegurança & Ambientes Unix
+* **Hardening & Defesa de Servidores:** Configuração de ambientes Linux enxutos, aplicação de regras severas de firewall (`nftables`/`iptables`), privilégios mínimos e auditoria de logs.
+* **Virtualização & Kernel:** Ambientes customizados em **Arch Linux**, orquestração de máquinas virtuais com **KVM / QEMU** e isolamento de processos por contêineres e sandboxes.
+* **Sistemas Operacionais:** Domínio de rotinas Unix, automação via Shell Scripting, otimização de uso de memória e gerenciamento de processos.
 
-- [KVM-QEMU-Installation-Guide](https://github.com/shrmadhant/KVM-QEMU-Installation-Guide)  
-  Setup de virtualização avançado com KVM/QEMU no Arch para testes, segurança e desenvolvimento.
-
-- [Linux-tar.gz-Packages-Installation-Guide](https://github.com/shrmadhant/Linux-tar.gz-Packages-Installation-Guide)  
-  Como lidar com pacotes `.tar.gz`: compilação, dependências, instalação limpa.
-
----
-
-## Tecnologias e Linguagens
-
-<img
-  align="left"
-  alt="LINUX"
-  title="LINUX"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"
-/>
-<img
-  align="left"
-  alt="ARCH"
-  title="ARCH"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg"
-/>
-<img
-  align="left"
-  alt="C"
-  title="C"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"
-/>
-<img
-  align="left"
-  alt="CPP"
-  title="CPP"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"
-/>
-<img
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
-/>
-<img
-  align="left"
-  alt="DISCORD"
-  title="DISCORD"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"
-/>
-<img
-  align="left"
-  alt="FORTRAN"
-  title="FORTRAN"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Fortran.svg"
-/>
-<img
-  align="left"
-  alt="GODOT"
-  title="GODOT"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg"
-/>
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
-/>
-<img
-  align="left"
-  alt="JS"
-  title="JS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
-/>
-<img
-  align="left"
-  alt="KOTLIN"
-  title="KOTLIN"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg"
-/>
-<img
-  align="left"
-  alt="NOTION"
-  title="NOTION"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg"
-/>
-<img
-  align="left"
-  alt="OBSIDIAN"
-  title="OBSIDIAN"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg"
-/>
-<img
-  align="left"
-  alt="PYTHON"
-  title="PYTHON"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"
-/>
-<img
-  align="left"
-  alt="R"
-  title="R"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg"
-/>
-<img
-  align="left"
-  alt="TS"
-  title="TS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"
-/>
-
-<br/>
-<br/>
+### 3. Automação de Software, Bots & Backend
+* **Engenharia de Bots:** Desenvolvimento de ecossistemas de automação para **Telegram**, **Discord** e **WhatsApp** (com e sem integração com modelos de IA/LLMs).
+* **APIs & Serviços:** Backend orientado a concorrência, baixa latência e consumo consciente de recursos de hardware.
+* **Sistemas Integrados:** Soluções de ponta a ponta conectando captação de eventos de mercado, processamento backend e distribuição de mensagens instantâneas.
 
 ---
 
-## Em Desenvolvimento
+## ─── Filosofia de Engenharia ───
 
-- Guia completo de **browser hardening** para navegação segura e anti-fingerprint.
-- Setup automatizado de ambiente Linux para devs (scripts e dotfiles).
-- Curso completo sobre **instalação, otimização e segurança no Arch Linux**.
-- Tutoriais sobre **scripts Bash**, GPG, Git seguro e práticas de backup criptografado.
+> *"Complexidade desnecessária é o primeiro passo para a falha do sistema. Código de alta performance é enxuto, previsível e auditável."*
 
-<br/>
+* **Resolução na Causa-Raiz:** Não aplico paliativos na camada de aplicação para problemas originados na infraestrutura ou no design de dados.
+* **Pragmatismo Brutal:** Prefiro uma solução monolítica bem projetada e de altíssima performance a um emaranhado de microserviços inflados por modismo.
+* **Segurança por Design:** Hardening, isolamento e controle de superfície de ataque integrados desde a concepção do código.
 
 ---
 
-## Stats
+## ─── Stack & Ecossistema de Trabalho ───
 
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=shrmadhant&showicons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrmadhant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
+| Domínio | Tecnologias & Ferramentas |
+| :--- | :--- |
+| **Quant & Linguagens** | MQL5, Pine Script, Python, C/C++, Bash/Shell Scripting |
+| **Infra, Sec & Unix** | Arch Linux, KVM / QEMU, nftables, Docker, Systemd, Linux Hardening |
+| **Backend & Mensageria** | APIs RESTful, WebSockets, Telegram API, WhatsApp Engine, Discord SDK |
+| **Ambiente & Ferramental** | Git, Neovim/Vim, QEMU, Wireshark, Ferramentas de Análise de Tráfego |
 
+---
 
+## ─── Arquitetura de Projetos em Destaque ───
+
+* **`quant-execution-bridge`**: Ponte de execução entre estratégia customizada (PineScript/MQL5) e serviço backend desacoplado com roteamento de alertas para Telegram.
+* **`unix-hardened-environment`**: Conjunto de scripts e configurações declarativas para deploy de VPS Linux otimizada, isolada e com regras restritivas de acesso.
+* **`multiplatform-bot-core`**: Core reutilizável para construção de bots multicanais com gerenciamento de estado e integrações modulares.
+
+---
+
+## ─── Contato & Links ───
+
+- **GitHub:** [shrmadhant](https://github.com/shrmadhant)
