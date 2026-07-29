@@ -55,4 +55,4 @@ Desenvolvedor orientado a performance, sistemas distribuídos e engenharia quant
 ## ─── Contato & Links ───
 
 - **GitHub:** [shrmadhant](https://github.com/shrmadhant)
-- **Portfólio:** [Mercer](mercer-5bm.pages.dev)
+- **Portfólio:** [Mercer](https://mercer-5bm.pages.dev)
