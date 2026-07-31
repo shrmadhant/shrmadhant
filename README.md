@@ -1,6 +1,6 @@
 # Mercer | Arquitetura de Sistemas & Engenharia de Software
 
-Desenvolvedor orientado a performance, sistemas distribuídos e engenharia quantitativa. Não me dedico a colecionar linguagens ou acumular utilitários superficiais; meu foco é a construção de arquiteturas enxutas, determinísticas e resilientes, cobrindo da infraestrutura de baixo nível à camada de aplicação.
+Desenvolvedor orientado a performance, sistemas distribuídos e engenharia quantitativa. Não me dedico a colecionar linguagens ou acumular utilitários superficiais; meu foco é a construção de arquiteturas concisas, determinísticas e resilientes, cobrindo da infraestrutura de baixo nível à camada de aplicação.
 
 ---
 
